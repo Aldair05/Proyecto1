@@ -1,0 +1,48 @@
+
+#col1{
+    background-color: aqua;
+}
+.border{
+    border-style: solid;
+}
+
+#row{
+    top:80px;
+    margin-top:200px;
+    margin-bottom: 50px;
+    margin-right: 60px;
+    margin-left: 60px;
+
+}
+
+#img1{
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+    margin-left: 50px;
+}
+
+#img2{
+    width: 70%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+    margin-left: 80px;
+}
+
+#Credito{
+    text-align: center;
+
+}
+
+
+.button{
+    background-color: green;
+    color: green;
+}
+
+.input[type="nombre"]:focus{
+    border: 1px solid red;
+    box-shadow: 0 0 5px;
+}
